@@ -13,6 +13,6 @@ An internal application for **route supervision**, designed to provide advanced 
 ## 🛠️ Technologies Used
 
 - C #
-- Google Maps / Mapbox (for tracking)  
+- Google Maps 
 
 ## 📦 “Efficiency is doing things right; effectiveness is doing the right things.” – Peter Drucker
